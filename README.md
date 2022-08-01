@@ -1,1 +1,1 @@
-'#NextJs practice' 
+Nextjs practice
