@@ -4,7 +4,7 @@
     "description": "'#NextJs practice'",
     "main": "index.js",
     "scripts": {
-        "devStart": "nodemon server.js"
+        "startServer": "nodemon server.js"
     },
     "repository": {
         "type": "git",
